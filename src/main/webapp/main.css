@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.menu {
+  width: 100%;
+  background-color: darkred;
+  padding: 15px;
+}
+
+.menu a:link, a:visited {
+  color: white;
+}
+
+.menu a:hover, a:active {
+  color: yellow;
+}
