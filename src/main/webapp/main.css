@@ -4,9 +4,10 @@ body {
 }
 
 .menu {
-  width: 100%;
+  width: 75%;
   background-color: darkred;
   padding: 15px;
+  margin: 0 auto;
 }
 
 .menu a:link, a:visited {
@@ -15,4 +16,12 @@ body {
 
 .menu a:hover, a:active {
   color: yellow;
+}
+
+.container {
+  font-size: 28px;
+  width: 70%;
+  background-color: palevioletred;
+  margin: 0 auto;
+  padding: 20px;
 }
